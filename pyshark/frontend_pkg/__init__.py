@@ -1,0 +1,1 @@
+from pyshark.frontend_pkg.frontend_sniffer import AppWindow
